@@ -1,0 +1,24 @@
+#heading1{
+    text-align: center;
+    color: whitesmoke;
+}
+.container{
+    background-color: maroon;
+    padding: 5%;
+}
+.buy1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.buy2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.buy3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.buy4{
+    display: flex;
+    justify-content: space-evenly;
+}
